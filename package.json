@@ -1,0 +1,15 @@
+{
+  "name": "truemoneyapi",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000r\u0000u\u0000e\u0000M\u0000o\u0000n\u0000e\u0000y\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
